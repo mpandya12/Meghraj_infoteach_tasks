@@ -1,0 +1,25 @@
+
+
+.class-1{
+    border: solid rgb(235, 221, 247) ;
+    margin: 60px;
+    width: fit-content;
+    box-shadow: inset;
+
+  
+}
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #141416;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  
+  }
+  .link{
+    text-decoration: none;
+    color: #fff;
+  }
